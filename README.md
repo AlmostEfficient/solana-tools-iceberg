@@ -1,4 +1,8 @@
-# Solana Tools/libraries iceberg
+# Video Walkthrough
+[![walkthrough-video](https://img.youtube.com/vi/t2crW_zBCHo/0.jpg)](https://www.youtube.com/watch?v=t2crW_zBCHo)
+
+
+## Solana Tools/libraries iceberg
 
 ![iceberg-final](https://github.com/AlmostEfficient/solana-tools-iceberg/assets/42661870/dc922c56-6567-43ca-b415-96b59c05457f)
 
