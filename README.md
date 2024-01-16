@@ -9,51 +9,51 @@
 
 ### Playground and Explorers
 
-- **Solana Playground**: A browser-based development environment for building, testing, and deploying Solana programs. [Solana Playground](https://playground.solana.com/)
-- **Solana Explorer**: Official Solana blockchain explorer. [Solana Explorer](https://explorer.solana.com/)
-- **SolScan**: An alternative explorer with additional features/better UX. [SolScan](https://solscan.io/)
-- **Solana.FM**: Another user-friendly Solana blockchain explorer. [Solana.FM](https://solana.fm/)
+- **[Solana Playground](https://playground.solana.com/)**: A browser-based development environment for building, testing, and deploying Solana programs. 
+- **[Solana Explorer](https://explorer.solana.com/)**: Official Solana blockchain explorer. 
+- **[SolScan](https://solscan.io/)**: An alternative explorer with additional features/better UX. 
+- **[Solana.FM](https://solana.fm/)**: Another user-friendly Solana blockchain explorer. 
 
 ### Command Line Interfaces
 
-- **Solana CLI**: A comprehensive tool for interacting with the Solana blockchain. [Solana CLI](https://docs.solana.com/cli/install-solana-cli-tools)
-- **SPL Token CLI**: For managing SPL tokens. [SPL Token CLI](https://spl.solana.com/token)
-- **Solana Test Validator**: Bundled with Solana CLI for setting up a local network. [Solana Test Validator](https://docs.solana.com/developing/test-validator)
+- **[Solana CLI](https://docs.solana.com/cli/install-solana-cli-tools)**: A comprehensive tool for interacting with the Solana blockchain. 
+- **[SPL Token CLI](https://spl.solana.com/token)**: For managing SPL tokens. 
+- **[Solana Test Validator](https://docs.solana.com/developing/test-validator)**: Bundled with Solana CLI for setting up a local network. 
 
 ### Solana Program Library
 
-- **Solana Program Library (SPL)**: Includes commonly used programs like the Token and Swap Programs. [Solana Program Library](https://spl.solana.com/)
+- **[Solana Program Library (SPL)](https://spl.solana.com/)**: Includes commonly used programs like the Token and Swap Programs. 
 
 ### SDKs and Development Tools
 
-- **@solana/web3.js**: JavaScript SDK for interacting with the Solana blockchain. [@solana/web3.js](https://github.com/solana-labs/solana-web3.js)
-- **Solathon**: Python SDK for Solana. [Solathon](https://github.com/SuperteamDAO/solathon)
-- **Solana Py**: Another Python SDK. [Solana Py](https://github.com/michaelhly/solana-py)
-- **SolNet**: .NET SDK. [SolNet](https://github.com/bmresearch/Solnet)
-- **Solana Go**: Go SDK for Solana. [Solana Go](https://github.com/gagliardetto/solana-go)
-- **Sol4k**: Kotlin/Java SDK. [Sol4k](https://github.com/sol4k/sol4k)
-- **Solana Unity**: SDK for Unity. [Solana Unity](https://github.com/magicblock-labs/Solana.Unity-SDK)
-- **Create-Solana-Dapp**: CLI tool for creating Solana apps in various frameworks. [Create-Solana-Dapp](https://github.com/solana-developers/create-solana-dapp)
+- **[@solana/web3.js](https://github.com/solana-labs/solana-web3.js)**: JavaScript SDK for interacting with the Solana blockchain. 
+- **[Solathon](https://github.com/SuperteamDAO/solathon)**: Python SDK for Solana. 
+- **[Solana Py](https://github.com/michaelhly/solana-py)**: Another Python SDK. 
+- **[SolNet](https://github.com/bmresearch/Solnet)**: .NET SDK. 
+- **[Solana Go](https://github.com/gagliardetto/solana-go)**: Go SDK for Solana. 
+- **[Sol4k](https://github.com/sol4k/sol4k)**: Kotlin/Java SDK. 
+- **[Solana Unity](https://github.com/magicblock-labs/Solana.Unity-SDK)**: SDK for Unity. 
+- **[Create-Solana-Dapp](https://github.com/solana-developers/create-solana-dapp)**: CLI tool for creating Solana apps in various frameworks. 
 
 ### Wallet Adapters
 
-- **Wallet Adapter**: Libraries for interacting with Solana wallets in web applications. [Wallet Adapter](https://github.com/solana-labs/wallet-adapter)
-- **Mobile Wallet Adapter**: For integrating Solana wallets in mobile applications. [Mobile Wallet Adapter](https://github.com/solana-mobile/mobile-wallet-adapter)
-- **Seed Vault SDK**: For intergrating the Seed Vault on the Saga into wallets.
+- **[Wallet Adapter](https://github.com/solana-labs/wallet-adapter)**: Libraries for interacting with Solana wallets in web applications. 
+- **[Mobile Wallet Adapter](https://github.com/solana-mobile/mobile-wallet-adapter)**: For integrating Solana wallets in mobile applications. 
+- **[Seed Vault SDK](https://github.com/solana-mobile/seed-vault-sdk)**: For intergrating the Seed Vault on the Saga into wallets.
   
 ### Frameworks for Solana Programs
 
-- **Anchor**: A framework for Solana smart contract development. [Anchor](https://github.com/project-serum/anchor)
-- **Seahorse**: A Python-based framework for developing Solana programs (currently in beta). [Seahorse](https://github.com/coral-xyz/seahorse)
+- **[Anchor](https://github.com/project-serum/anchor)**: A framework for Solana smart contract development. 
+- **[Seahorse](https://github.com/coral-xyz/seahorse)**: A Python-based framework for developing Solana programs (currently in beta). 
 
 ### Off-Chain Storage Solutions
 
-- **Shadow Drive**: Solana native decentralized storage solution. [Shadow Drive](https://shadowstorage.io/)
-- **Arweave**: A popular1 decentralized storage service. [Arweave](https://www.arweave.org/)
+- **[Shadow Drive](https://shadowstorage.io/)**: Solana native decentralized storage solution. 
+- **[Arweave](https://www.arweave.org/)**: A popular1 decentralized storage service. 
 
 ### NFT Tools
 
-- **[Sugar](https://github.com/metaplex-foundation/sugar)**: A CLI tool for streamlined NFT creation and management. [Sugar CLI](https://github.com/metaplex-foundation/sugar)
+- **[Sugar](https://github.com/metaplex-foundation/sugar)**: A CLI tool for streamlined NFT creation and management.
 - **[CandyMachine](https://docs.metaplex.com/programs/candy-machine/overview)**: A CLI for creating and managing NFT drops on Solana.
 - **[Metaboss](https://metaboss.rs/)**: A versatile tool for managing NFTs on Solana, enabling tasks like burning, airdropping, and updating NFT metadata.
 
