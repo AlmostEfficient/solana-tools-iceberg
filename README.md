@@ -64,6 +64,7 @@
 
 ### Miscellaneous Tools
 
+- **[Helpers](https://github.com/solana-developers/helpers)**: Helper functions - get custom errors, request airdrops, manage keypairs.
 - **[Openbook](https://openbookdex.com/)**: An innovative decentralized exchange platform offering transparent and efficient trading experiences.
 - **[Umi](https://github.com/metaplex-foundation/umi)**: A Solana framework designed for creating JavaScript clients, bundling common functionalities and interfaces for efficient development
 - **[Clockwork](https://clockwork.xyz/)**: A platform providing automated smart contract operations and services for blockchain ecosystems.
